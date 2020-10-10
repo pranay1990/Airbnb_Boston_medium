@@ -4,7 +4,7 @@ This is my first Data Science Nanodegree program project
 ## Table of contents
 1) Installation.
 2) Project motivation.
-3) Descripttion of the file.
+3) Description of the file.
 4) Results of the project.
 5) Licensing, Authors, Acknowledgements.
 
