@@ -30,6 +30,8 @@ My primary motivations for studying the Airbnb Boston dataset are given below,
 
 **Readme.md** : description of the repository
 
+The files ***listings.csv***,***calendar.csv*** and ***reviews.csv*** are required Airbnb Boston datasets for running the  **Final_Airbnb_Boston_Project.ipynb** file
+
 ## Results of the project
 The results of the project are discussed [here](https://medium.com/@pranay.barkataki/talking-about-airbnb-footprint-in-boston-usa-68c475549036).
 
