@@ -6,7 +6,7 @@ This is my first Data Science Nanodegree program project
 2) Project motivation.
 3) Descripttion of the file.
 4) Results of the project.
-5) Licensing, Authors, Acknowledgements
+5) Licensing, Authors, Acknowledgements.
 
 ## Installation
 You need to install the following libraries,
@@ -16,7 +16,7 @@ You need to install the following libraries,
 4) matplotlib
 5) kepler-gl
 
-The first four libraries are already installed in Anaconda distribution of Python.
+The first four libraries are already installed in Anaconda distribution of Python. The installation guide for kepler-gl is given [here](https://docs.kepler.gl/docs/keplergl-jupyter)
 
 ## Project Motivation
 My primary motivations for studying the Airbnb Boston dataset are given below,
@@ -31,4 +31,7 @@ My primary motivations for studying the Airbnb Boston dataset are given below,
 **Readme.md** : description of the repository
 
 ## Results of the project
-The results of the project are discussed 
+The results of the project are discussed [here](https://medium.com/@pranay.barkataki/talking-about-airbnb-footprint-in-boston-usa-68c475549036).
+
+## Licensing, Authors, Acknowledgements
+Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston).
